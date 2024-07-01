@@ -1,0 +1,11 @@
+hi,
+thanks for reading this. well this is my first try in making a clone of 
+the frontend part of the Zerodha landing page.
+
+just tried my hands and it was good feeling. coding html after this long
+was good. well i look forward to just continuing this project.
+
+complete the CSS portion by day 2
+& move to the Javascript by day 3.
+
+arka banerjee signing off 😄
